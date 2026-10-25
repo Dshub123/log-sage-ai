@@ -1,0 +1,6 @@
+com\logsage\api\LogParser$Entry.class
+com\logsage\api\LogParser.class
+com\logsage\api\LogSageApplication.class
+com\logsage\api\LogService.class
+com\logsage\api\ApiController.class
+com\logsage\api\AnalysisService.class
